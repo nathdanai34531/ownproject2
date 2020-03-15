@@ -1,0 +1,33 @@
+
+.App {
+    //width: 800px;
+    min-width: 320;
+    //max-width: 3000px;
+  
+    padding: 0px;
+    margin: 0px auto;
+
+   
+
+   background-color: rgb(255, 255, 255);
+
+
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background-color: rgb(255, 255, 255);
+
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden; 
+    }
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        background-color: rgb(255, 255, 255);
+       
+    }
+}

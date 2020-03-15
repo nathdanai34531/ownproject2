@@ -1,0 +1,31 @@
+.Lightbox {
+    background-color: rgba(0, 0, 0, 0.8);
+  
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+  
+    z-index: 9000;
+  
+    .Light {
+      background-color: white;
+  
+      width: 430px;
+      height: 300px;
+  
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+
+      img{
+        margin-left: 10px;
+        margin-top: 10px;
+        width: 410px;
+        height: 280px;
+      }
+    }
+  }
+  

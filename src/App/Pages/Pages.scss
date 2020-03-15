@@ -1,0 +1,459 @@
+.Pages {
+  padding: 0px;
+  margin: 0px;
+
+  //In Main
+  // .banner {
+  //   background-color: rgb(172, 172, 172);
+  //   height: 480px;
+  //   padding: 0px;
+
+  //   margin: 0px;
+
+  //   text-align: center;
+  //   line-height: 500px;
+
+  //   color: white;
+  //   width: auto;
+  // }
+
+
+
+  .contactinhome {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 50px;
+    background-color: rgb(216, 216, 216);
+    
+  
+
+  }
+
+  .blogtopic {
+    text-align: left;
+    margin: 30px;
+
+    font-size: 80;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+  }
+
+  .featured {
+    text-align: center;
+
+    margin: 20px;
+    margin-top: 50px;
+
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-weight: 800;
+  }
+
+  .featureddescript {
+    text-align: center;
+    padding: 0px 350px 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-weight: 250;
+  }
+
+  .aboutandmission {
+    text-align: left;
+
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 70px;
+
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-weight: 800;
+  }
+
+  .aboutandmissiondescript {
+    text-align: left;
+    margin-left: 70px;
+    padding-right: 800px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-weight: 250;
+  }
+
+  //Main Sub
+  .columns {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+
+    .col {
+      width: 300px;
+      height: 190px;
+      line-height: 180px;
+      margin: 10px;
+      padding: 5px;
+
+      &:hover {
+        background-color: rgb(66, 66, 66);
+        cursor: pointer;
+
+        transition: all 0.2s ease-in-out;
+
+        transform: scale(1.1);
+        overflow: hidden;
+      }
+    }
+    .col1 {
+      background-color: rgb(172, 172, 172);
+    }
+    .col2 {
+      background-color: rgb(172, 172, 172);
+    }
+    .col3 {
+      background-color: rgb(172, 172, 172);
+    }
+    .col4 {
+      background-color: rgb(172, 172, 172);
+    }
+  }
+
+  .columns2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+
+    .col {
+      width: 300px;
+      height: 190px;
+      line-height: 180px;
+      margin: 10px;
+      padding: 5px;
+
+      &:hover {
+        background-color: rgb(66, 66, 66);
+        cursor: pointer;
+
+        transition: all 0.2s ease-in-out;
+
+        transform: scale(1.1);
+        overflow: hidden;
+      }
+    }
+    .col1 {
+      background-color: rgb(172, 172, 172);
+    }
+    .col2 {
+      background-color: rgb(172, 172, 172);
+    }
+    .col3 {
+      background-color: rgb(172, 172, 172);
+    }
+    .col4 {
+      background-color: rgb(172, 172, 172);
+    }
+  }
+
+  .columnstext {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .Reasons {
+    text-align: center;
+
+    margin: 25px;
+    margin-top: 40px;
+
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-weight: 800;
+  }
+
+  .Reasonstext {
+    text-align: center;
+    padding: 0px 350px 0px;
+    margin-bottom: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+      "Helvetica Neue", sans-serif;
+    font-weight: 250;
+  }
+
+  .routeicon {
+    display: inline-block;
+
+    width: 85px;
+    height: 120px;
+
+    position: absolute;
+    right: 900px;
+    top: 2340px;
+    color: rgb(131, 131, 131);
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+
+    &:hover {
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+
+      transition: all 0.2s ease-in-out;
+
+      transform: scale(1.1);
+    }
+  }
+
+  .timeicon {
+    display: inline-block;
+
+    width: 60px;
+    height: 110px;
+
+    position: absolute;
+    right: 685px;
+    top: 2345px;
+    color: rgb(131, 131, 131);
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+
+    &:hover {
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+
+      transition: all 0.2s ease-in-out;
+
+      transform: scale(1.1);
+    }
+  }
+
+  .moneyicon {
+    display: inline-block;
+
+    width: 85px;
+    height: 110px;
+
+    position: absolute;
+    right: 460px;
+    top: 2350px;
+    color: rgb(131, 131, 131);
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+
+    &:hover {
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+
+      transition: all 0.2s ease-in-out;
+
+      transform: scale(1.1);
+    }
+  }
+}
+
+.blogging {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+  justify-content: space-between;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+
+  .bol {
+    width: 410px;
+    height: 150px;
+    line-height: 150px;
+    margin: 10px;
+    padding: 5px;
+  }
+  .bol1 {
+    background-color: rgb(172, 172, 172);
+  }
+  .bol2 {
+    background-color: rgb(172, 172, 172);
+  }
+  .bol3 {
+    background-color: rgb(172, 172, 172);
+  }
+  .bol4 {
+    background-color: rgb(172, 172, 172);
+  }
+  .bol5 {
+    background-color: rgb(172, 172, 172);
+  }
+  .bol6 {
+    background-color: rgb(172, 172, 172);
+  }
+}
+
+.contacthead {
+  padding-top: 50px;
+  text-align: center;
+
+  margin: 20px;
+  margin-top: 60px;
+
+  font-size: 40px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+    "Helvetica Neue", sans-serif;
+  font-weight: 800;
+}
+
+.contacttext {
+  text-align: center;
+  padding: 0px 350px 0px;
+  margin-bottom: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+    "Helvetica Neue", sans-serif;
+  font-weight: 250;
+}
+
+.contactform {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+  justify-content: space-around;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+
+  .cont {
+    width: 600px;
+    height: 300px;
+    line-height: 280px;
+    margin: 10px;
+    padding: 5px;
+  }
+
+  .cont1 {
+    background-color: rgb(172, 172, 172);
+  }
+}
+
+//MQR
+//medium screen
+@media screen and (min-width: 600px) {
+  .Main {
+    .featureddescript {
+      display: none;
+    }
+  }
+}
+
+//large screen
+@media screen and (min-width: 800px) {
+  .Main {
+    .featureddescript {
+      display: inline-block;
+    }
+  }
+}
+
+//large screen Max
+@media screen and (max-width: 1000px) {
+  .Main {
+    .featureddescript {
+      display: none;
+    }
+
+    .aboutandmissiondescript {
+      display: none;
+    }
+    .contacttext {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 1420px) {
+  .Main {
+    .routeicon {
+      display: none;
+    }
+
+    .timeicon {
+      display: none;
+    }
+
+    .moneyicon {
+      display: none;
+    }
+  }
+}
+
+//Large
+
+@media screen and (max-width: 1000px) {
+}
+
+@media screen and (max-width: 1120px) {
+  .aboutandmissiondescript {
+    display: none;
+  }
+
+  .Reasonstext {
+    display: none;
+  }
+
+  .bol4 {
+    display: none;
+  }
+
+  .bol5 {
+    display: none;
+  }
+
+  .bol6 {
+    display: none;
+  }
+}
+
+//large screen Max
+@media screen and (max-width: 600px) {
+  .Main {
+    .featureddescript {
+      display: none;
+    }
+
+    .slidesinhome{
+      margin-top: 100px;
+    }
+    
+    .columns {
+      padding: 0px;
+      margin: 0px;
+      justify-content: center;
+    }
+
+    .columns2 {
+      display: none;
+    }
+  }
+}
