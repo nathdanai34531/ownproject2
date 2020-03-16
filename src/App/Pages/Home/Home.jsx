@@ -51,18 +51,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, excepturi cum. Re
 
             <br></br><br></br>     <br></br><br></br>
 
-            {/* 
-                <nav className='routeicon'>
-                    <FontAwesomeIcon icon={faRoute} />
-                </nav>
-    
-                <nav className='timeicon'>
-                    <FontAwesomeIcon icon={faHourglassHalf} />
-                </nav>
-    
-                <nav className='moneyicon'>
-                    <FontAwesomeIcon icon={faMoneyBillWave} />
-                </nav> */}
+  
 
 
             <br></br><br></br>

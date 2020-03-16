@@ -23,6 +23,7 @@ const StaffMembers = () => {
     }, []);
 
 
+    
     return staffMembers.map((staffMember, idx) => {
         return (
             <div key={idx} className={'StaffMember'}>
@@ -33,12 +34,17 @@ const StaffMembers = () => {
     });
 }
 
+
 const Staff = () => {
     return (
         <div className='Staff'>
+
+
+
             <h3 className='ourstaffs'>Our Team</h3>
 
             <StaffMembers />
+           
         </div>
     )
 }

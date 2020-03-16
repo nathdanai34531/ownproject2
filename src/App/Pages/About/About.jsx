@@ -32,9 +32,7 @@ const About = () => {
 
            
 
-            <div className="contactform">
-                {/* <div className="cont cont1">About</div> */}
-            </div>
+
 
             <br /> 
 
