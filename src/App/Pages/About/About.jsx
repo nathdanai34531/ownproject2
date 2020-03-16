@@ -12,7 +12,7 @@ const About = () => {
 
 
 <div className='contacthead'>
-    About Us
+    About Ace Deco
 </div>
 
 
@@ -22,15 +22,27 @@ const About = () => {
             <br></br>
 
             <div className="contacttext">
-            Co-founders Kevin and Raman are global travelers who travel the backpacker’s way. From Europe and South America to India and Africa – they’ve trekked around the world and know the needs of budget travelers and how to make things fun. <br></br><br></br>They understand that although the beaten path is beaten for a reason, it’s nice to step out of bounds to see another side of a new place. A Day In LA Tours wants to give you a piece of both.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nulla quos nam magni fugiat odit aut exercitationem veritatis ratione enim autem commodi ipsum minima, sed soluta inventore quasi, ab corrupti. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit exercitationem voluptatibus, sunt, at aspernatur quasi officiis voluptates non porro assumenda quaerat vero. Eligendi sit vitae est corporis laborum voluptatem necessitatibus?  </div>
 
-We know many visitors are in town for only a few days, so we want to make the most of your time.  </div>
+   
+           <img src= '/img/other/9.jpg' class="img9" alt="work"></img>
+
+           <img src= '/img/other/8.jpg' class="img8" alt="work"></img>
+           <img src= '/img/other/5.jpg' class="img5" alt="work"></img>
+
+           
 
             <div className="contactform">
                 {/* <div className="cont cont1">About</div> */}
             </div>
 
             <br /> 
+
+
+
+
+
+
 
             <Staff />
 

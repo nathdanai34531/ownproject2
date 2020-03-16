@@ -9,11 +9,11 @@ const Footer = () => {
 
 
 <div className="Footermenu">
-                <div className="test one">City Tours</div>
-                <div className="test two">Private Tours</div>
-                <div className="test three">About Us</div>
-                <div className="test four">Blog</div>
-                <div className="test five">Contact</div>
+                <div className="test one">HOME</div>
+                <div className="test two">ABOUT</div>
+                <div className="test three">WORK</div>
+                <div className="test four">CONTACT</div>
+                <div className="test five">LOGIN</div>
                 {/* <div className="test five">5</div>
                 <div className="test six">6</div> */}
             </div>
@@ -22,9 +22,9 @@ const Footer = () => {
 
                 <div className="note">
                 <div className="not one">TCP# 27663-A © 2018</div>
-                <div className="not two">A Day in LA Tours.</div>
+                <div className="not two">ACE DECO DESIGN.</div>
                 <div className="not three">All Rights Reserved.</div>
-                <div className="not four">Site Credits Sitemap Privacy Policy</div>
+                <div className="not four">Sitemap Privacy Policy</div>
        
             </div>
 

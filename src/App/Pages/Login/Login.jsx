@@ -153,6 +153,7 @@
                 </div>
             </div>
 
+            {/* <img src= '/img/Bg/bg1.jpg' class="bg1" alt="work"></img> */}
 
         </div>
 
