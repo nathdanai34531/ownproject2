@@ -1,6 +1,6 @@
 module.exports = {
     gallery: [
-        { image: '/img/Work/work-1.jpeg', title: 'Rebranding', category: 'UX/UI', description: 'Reading to Kids'},
+        { image: '/img/Work/work-1.jpeg', title: 'Rebranding', category: 'UX/UI, Graphic Design', description: 'Reading to Kids'},
         { image: '/img/Work/work-2.jpeg', title: 'Packaging Design', category: 'Graphic Design', description: 'Made Scent Perfume' },
         { image: '/img/Work/work-3.jpeg', title: 'Web Design', category: 'UX/UI', description: 'VMS visitor management' },
         { image: '/img/Work/work-4.jpeg', title: 'Brand Refreshment', category: 'UX/UI', description: 'Shunji Cuisine' },
