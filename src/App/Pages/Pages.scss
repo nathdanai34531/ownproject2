@@ -4,10 +4,77 @@
   font-family: bodini;
   color: white;
 
+  background-image: url("/img/Bg/bg6.png");
+  background-size: cover;
+
+
+
+  .mywork {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   
 
-  background-image: url('/img/Bg/bg6.png') ;
-  background-size: cover;
+.adlogo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 80px; 
+}
+
+  .flex-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  
+  }
+  
+  .flex-container > div {
+    
+    margin: 10px;
+    padding: 20px;
+  
+  }
+
+  // image in home
+
+  html,
+  body,
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  #contain {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  #img {
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+
+    width: 40%;
+    min-width: 350px;
+    vertical-align: middle;
+  }
+  p {
+    width: 49%;
+    min-width: 350px;
+    display: inline-block;
+    padding: 50px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: white;
+  
+
+
+  }
+
+  // end
+
 
 
   .img4 {
@@ -38,7 +105,7 @@
 
   .img9 {
     height: 500px;
-    margin-left:100px;
+    margin-left: 100px;
     margin-top: 30px;
   }
 
@@ -86,8 +153,8 @@
   .featureddescript {
     text-align: center;
     padding: 0px 350px 0px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: z0px;
+    margin-bottom: 50px;
 
     font-weight: 250;
   }
@@ -340,11 +407,11 @@
 }
 
 .contacthead {
-  padding-top: 50px;
+  padding-top: 100px;
   text-align: center;
 
   margin: 20px;
-  margin-top: 60px;
+  margin-top: 0px;
 
   font-size: 40px;
 

@@ -7,7 +7,7 @@ const Address = () => {
         <div className={'Address'}>
 
 
-            Address:  <br></br> 410 Broadway, Santa Monica, CA 90401 <br></br>
+            Address:  <br></br> 996 Keniston, CA 90012 <br></br>
             <br></br>
 
             Hours:  <br></br>
@@ -21,9 +21,9 @@ const Address = () => {
             <br></br>
 
             Phone: <br></br>
-            (818) 538-6287<br></br><br></br>
-            Appointments:<br></br>
-            zaui.net
+            (213) 152-2145<br></br><br></br>
+         
+            
         </div>
     );
 }

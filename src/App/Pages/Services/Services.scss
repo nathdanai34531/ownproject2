@@ -13,8 +13,9 @@
   h2 {
     font-size: 40px;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 100px;
     font-weight: 800;
+    margin-bottom: 30px;
   }
 
   .Service {
@@ -37,8 +38,8 @@
       background-position: center center;
       transition: all .5s;
 
-      height: 380px;
-      width: 600px;
+      height: 190px;
+      width: 300px;
       margin: 5px;
 
       &:hover {

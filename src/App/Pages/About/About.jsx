@@ -11,8 +11,8 @@ const About = () => {
 
 
 
-<div className='contacthead'>
-    About Ace Deco
+            <div className='contacthead'>
+                About Ace Deco
 </div>
 
 
@@ -22,22 +22,27 @@ const About = () => {
             <br></br>
 
             <div className="contacttext">
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nulla quos nam magni fugiat odit aut exercitationem veritatis ratione enim autem commodi ipsum minima, sed soluta inventore quasi, ab corrupti. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit exercitationem voluptatibus, sunt, at aspernatur quasi officiis voluptates non porro assumenda quaerat vero. Eligendi sit vitae est corporis laborum voluptatem necessitatibus?  </div>
-
-   
-           <img src= '/img/other/9.jpg' class="img9" alt="work"></img>
-
-           <img src= '/img/other/8.jpg' class="img8" alt="work"></img>
-           <img src= '/img/other/5.jpg' class="img5" alt="work"></img>
-
-           
+            Our technical team helps enable creativity beyond the limits of off-the-shelf products through their innovations in technology. Tailored systems are designed and engineered to bring a physical form to our clients’ live events and experiences.  </div>
 
 
 
-            <br /> 
+            <div class="adlogo">
+                <img src='/img/other/9.jpg' class="img9" alt="officework"></img>
+            </div>
 
+            <br />
 
+            <div class="flex-container">
+                <img src="/img/other/8.jpg" id="img" alt="classwork" />
+        
+            </div>
 
+            <div class="flex-container">
+                <img src="/img/other/1.jpg" id="img" alt="samplework"/>
+        
+            </div>
+
+            
 
 
 

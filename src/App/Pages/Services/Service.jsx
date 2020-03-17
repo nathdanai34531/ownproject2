@@ -18,11 +18,13 @@ const Service = (props) => {
 
     return (
         <div className='Service'>
+            <img
+            className = 'galleryimage'
+                onClick={turnLightOn}
+                src={props.singleService.image}
+                alt={props.singleService.title}
 
-            <div 
-                className="image-container"
-                style={ { backgroundImage: `url(${props.singleService.image})` } }
-            ></div>
+            />
             <h3>{props.singleService.title}</h3>
             <Lightbox
                 show={showLightBox}

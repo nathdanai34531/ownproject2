@@ -8,7 +8,7 @@
         return (
             <div className={'Pages Blog'}>
                 <div className="aboutandmission">
-                    Must Do In L.A.</div>
+                    ...</div>
 
                 <div className="blogging">
                     <div className="bol bol1">Blog 1 </div>
