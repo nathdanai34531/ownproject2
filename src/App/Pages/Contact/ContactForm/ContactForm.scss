@@ -5,6 +5,7 @@
   &.form-invalid{
     border: solid 0px rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
+    color: black;git 
   }
 
   .error-message{
@@ -39,11 +40,13 @@
       &.invalid{
         border: solid 2px red;
         background-color: coral;
+   
       }
     }
 
     textarea {
       height: 200px;
+      
     }
 
     button {
