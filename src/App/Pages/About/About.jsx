@@ -26,21 +26,6 @@ const About = () => {
 
 
 
-            <div class="adlogo">
-                <img src='/img/other/9.jpg' class="img9" alt="officework"></img>
-            </div>
-
-            <br />
-
-            <div class="flex-container">
-                <img src="/img/other/8.jpg" id="img" alt="classwork" />
-        
-            </div>
-
-            <div class="flex-container">
-                <img src="/img/other/1.jpg" id="img" alt="samplework"/>
-        
-            </div>
 
             
 

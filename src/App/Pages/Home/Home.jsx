@@ -25,19 +25,21 @@ We are a brand experience agency, driven to capture and amplify our clients' com
             <br></br><br></br>
 
 
+            <center>We produce experiences that resonate for live-events and mediums ranging from passive to interactive, environmental to screen-based, and physical to digital.</center>
+            <center>To maximize creativity and ensure flawless execution, we bring together a unique collection of versatile disciplines under a single roof to collaborate on every phase of the production.</center>
 
 
-
+{/* 
             <div id="contain">
                 <p>We produce experiences that resonate for live-events and mediums ranging from passive to interactive, environmental to screen-based, and physical to digital.</p>
                 <img src="/img/other/6.jpg" id="img" alt="work"/>
 
-            </div>
+            </div> */}
 
-            <div id="contain">
+            {/* <div id="contain">
                 <img src="/img/other/4.jpg" id="img" alt="teamwork"/>
                 <p>To maximize creativity and ensure flawless execution, we bring together a unique collection of versatile disciplines under a single roof to collaborate on every phase of the production.</p>
-            </div>
+            </div> */}
 
             <br></br><br></br>
 
